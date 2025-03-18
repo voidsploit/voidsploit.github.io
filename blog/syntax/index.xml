@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Syntax on Digital Soul</title>
-    <link>https://lain.com.tr/blog/syntax/</link>
+    <link>https://voidsploit.github.io/blog/syntax/</link>
     <description>Recent content in Syntax on Digital Soul</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>Present Time © Present Day.</copyright>
     <lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://lain.com.tr/blog/syntax/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://voidsploit.github.io/blog/syntax/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>One day i&#39;m gonna be computer</title>
-      <link>https://lain.com.tr/one-day-im-gonna-be-computer/</link>
+      <link>https://voidsploit.github.io/one-day-im-gonna-be-computer/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://lain.com.tr/one-day-im-gonna-be-computer/</guid>
+      <guid>https://voidsploit.github.io/one-day-im-gonna-be-computer/</guid>
       <description>&lt;hr&gt;&#xA;&lt;p&gt;I don&amp;rsquo;t know, maybe one day I&amp;rsquo;ll truly become a computer, and my dream will come true.&lt;/p&gt;</description>
     </item>
   </channel>
