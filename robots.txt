@@ -1,0 +1,2 @@
+User-Agent: *
+Sitemap: https://lain.com.tr/sitemap.xml
