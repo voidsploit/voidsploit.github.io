@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syntax on Digital Soul</title>
+    <link>http://localhost:1313/blog/syntax/</link>
+    <description>Recent content in Syntax on Digital Soul</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>Present Time © Present Day.</copyright>
+    <lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/syntax/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>One day i&#39;m gonna be computer</title>
+      <link>http://localhost:1313/one-day-im-gonna-be-computer/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/one-day-im-gonna-be-computer/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;I don&amp;rsquo;t know, maybe one day I&amp;rsquo;ll truly become a computer, and my dream will come true.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

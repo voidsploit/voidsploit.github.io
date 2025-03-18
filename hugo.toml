@@ -1,0 +1,26 @@
+baseURL = "https://lain.com.tr"
+
+theme = 'hugo-bearblog'
+
+title = "Digital Soul"
+author = "Lain"
+copyright = "Present Time © Present Day."
+languageCode = "en-US"
+
+# Generate a nice robots.txt for SEO
+enableRobotsTXT = true
+
+# Generate "Bearblog"-like URLs !only!, see https://bearblog.dev/.
+disableKinds = ["taxonomy"]
+ignoreErrors = ["error-disable-taxonomy"]
+[permalinks]
+  blog = "/:slug/"
+  tags = "/blog/:slug"
+
+[params]
+  description = "One day i'm gonna be computer"
+  favicon = "images/favicon.jpg"
+
+  images = ["images/onedaycomputer.png"]
+
+  title = "One day i'm gonna be computer"
